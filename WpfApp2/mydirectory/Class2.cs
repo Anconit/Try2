@@ -8,5 +8,6 @@ namespace WpfApp2
 {
     internal class Class2
     {
+        int counterError = 0;
     }
 }
